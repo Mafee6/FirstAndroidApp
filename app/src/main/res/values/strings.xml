@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="mafee_first_android_app">Mafee - First Android App</string>
+    <string name="todo">TODO</string>
+    <string name="hello">Hello, </string>
+    <string name="rate">Rate My App!</string>
+    <string name="welcome">Welcome To Mafee\'s First Android App!</string>
+    <string name="hint">Enter Your Name.</string>
+    <string name="browserbtn">Twitter</string>
+    <string name="name_default">Hello!</string>
+</resources>
